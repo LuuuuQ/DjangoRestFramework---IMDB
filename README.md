@@ -1,7 +1,22 @@
 # IMDB API Clone With DRF
 
-<h3>🔗 Final Project Links (Arranged According To Usage)</h3>
-<br>
+<h4>Before initial start-up:</h4>
+<ul>
+    <li>-pip install -r requirements.txt</li>
+   <li>python manage.py makemigrations</li>
+</ul>
+
+<h4>What is included in this project</h4>
+<ul>
+<li>Custom Permissions</li>
+<li>Token Authentication</li>
+<li>Throttling for anon and registered users</li>
+<li>Pagination</li>
+<li>Automated Tests</li>
+    
+</ul>
+
+</br>
 
 <b>1. Admin Access</b>
 <ul>
@@ -45,4 +60,4 @@
     <li>Access All Reviews For Specific User: http://127.0.0.1:8000/api/watch/user-reviews/?username=example</li>
 </ul>
 <br>
-"# DjangoRestFramework---IMDB" 
+
